@@ -71,7 +71,7 @@ def main():
     port = int(os.environ.get('PORT', 8090))
     socketserver.TCPServer.allow_reuse_address = True
     with socketserver.TCPServer(('', port), Handler) as srv:
-        print(f'Carte Berlin → http://localhost:{port}/', flush=True)
+        print(f'Loop → http://localhost:{port}/', flush=True)
         try:
             srv.serve_forever()
         except KeyboardInterrupt:

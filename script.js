@@ -1,4 +1,4 @@
-/* Carte Berlin — micro-interactions */
+/* Loop — micro-interactions */
 (function () {
   'use strict';
 

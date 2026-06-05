@@ -1,6 +1,6 @@
-# Carte Berlin
+# Loop
 
-A three-page marketing site for **Carte Berlin** — a monthly gathering for international designers new to Berlin. Each visitor gets a small printed card with a question; the card makes strangers approachable.
+A three-page marketing site for **Loop** — a monthly gathering for international designers new to Berlin. Each visitor gets a small printed card with a question; the card makes strangers approachable.
 
 Built from a Figma design as a static, hand-written HTML/CSS/JS site (no framework, no build step).
 
